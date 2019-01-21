@@ -1,3 +1,4 @@
+---
 defaults:
   # _posts
   - scope:
@@ -10,7 +11,7 @@ defaults:
       comments: true
       share: true
       related: true
-
+---
 ### Hi!
 ## Not much here yet, this is just a test.
 
