@@ -5,8 +5,7 @@ title: "The Royal Game of Ur"
 # Bringing a 4000+ year old board game back to life.
 
 
-{% <iframe width="560" height="315" src="https://www.youtube.com/embed/rnvQ86x2Azk" frameborder="0" allowfullscreen></iframe> %}
-
+{% include youtubePlayer.html id=rnvQ86x2Azk %}
 
 I was inspired by a [video from the British Museum](https://www.youtube.com/watch?v=WZskjLq040I) to try and make my own version of this very ancient board game. The only versions available for purchase are limited runs of museum replicas, stuff from Etsy, or vintage versions on eBay. I created a faithful but modernized version that is simple to fabricate using a laser cutter.
 
