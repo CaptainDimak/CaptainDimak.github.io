@@ -9,7 +9,7 @@ Last I heard, he was at the Royal College of Art in London.
 [Find him on Facebook](https://www.facebook.com/ji.huang.520)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TICTYyVr5t8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtubePlayer.html id=TICTYyVr5t8 %}
 
 
 Built from scratch in Unity using 3D scans of myself and Ji. We found that the sheer sense of scale was the most important thing to use to get reactions out of testers. In-experience walls that approximately match the scale of the real world room slowly move out to reveal miles-tall, contorted scans in a marble texture.
