@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "FlashForge Finder UPgrades"
+title: "FlashForge Finder Upgrades"
 youtubeID: NTWQZJs39gc
 ---
 # Making a personal-use printer ready for a makerspace.
