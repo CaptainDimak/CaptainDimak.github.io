@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Grant Shogren"
-  avatar           : /assets/images/profilepic.jpg"
+  avatar           : # /assets/images/profilepic.jpg"
   bio              : "Maker, writer, and sailor when I have the time."
   location         : "Seattle, WA"
   email            : "Grant@Shog.ren"
