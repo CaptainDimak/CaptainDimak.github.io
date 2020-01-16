@@ -3,7 +3,7 @@ layout: default
 title: "Linear Rail Printer: Beginnings"
 youtubeID: TICTYyVr5t8
 ---
-# Linear Rail Printer: Beginnings
+# How to spend $500 on a printer that competes with ones worth $300: the Linear Rail Printer.
 
 The world is running out of reasons to design and build your own 3D printer from scratch. My good friend Joshua [@poofjunior](https://twitter.com/Poofjunior) embarked on that journey with [Jubilee](https://github.com/machineagency/jubilee) with the intent of bringing open-source, open-standard tool changing into the world. That noble goal is already paying off in the form of some ridiculously nice prints and some cool other applications, soon to be shown off at [CHI](https://chi2020.acm.org/)!
 

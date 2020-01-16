@@ -3,9 +3,9 @@ layout: default
 title: "Games for my Dad"
 youtubeID: NTWQZJs39gc
 ---
-# Games for my Dad
+# Games better than Clash of Clans.
 
-My dad has been a gamer longer than I've been alive. His main genres are strategy (AoE, CoC) and narrative (Halo on easy mode). I have vague memories of him in his office late at night, with what I now know is Age of Empires II up on the screen. Oddly enough, those memories actually originate from long after I started playing games, because he set me up with an old beige box and Lego Racers years before. Nowadays, I'm the tech guy for the family, and set *him* up with a gaming PC about a year ago. It hasn't quite been used the way I was hoping it would be, so here we go: a list of PC games, all *massively* more interesting than Clash of Clans, DAD.
+My dad has been a gamer longer than I've been alive. His main genres are strategy (AoE, CoC) and narrative (Halo on easy mode). I have vague memories of him in his office late at night, with what I now know is Age of Empires II up on the screen. Oddly enough, those memories actually originate from long after I started playing games, because he set me up with an old beige box and Lego Racers years before. Nowadays, I'm the tech guy for the family, and set *him* up with a gaming PC about a year ago. It hasn't quite been used the way I was hoping it would be, so here we go: a list of PC games, all *massively* more interesting than Clash of Clans, Dad.
 
 ### The Witcher 3: Wild Hunt
 The first and biggest game on this list. Where to start -- massive story, super casual gameplay (or super hardcore, you choose), lovable characters. The full rollercoaster of emotions from disgust, to awe, to laughter, and right back to horror. Play it, and once you're done, play the Blood and Wine DLC!
@@ -28,7 +28,7 @@ If Age of Empires had gigantic factories. And aliens. The game turns into this g
 My one tip: If you have a surplus of stone, try making some concrete. You move faster on it!
 
 ### Observer_
-Rutger Hauer stars as a detective who can read minds in a cyberpunk future. This is technically a horror game, but the story and quantity of memorable characters push it well beyond cheap jump scares. Not that they're absent, but Observer_ also has a good chunk of beauty to it. 
+Rutger Hauer stars as a detective who can read minds in a cyberpunk future. This is technically a horror game, but the story and quantity of memorable characters push it well beyond cheap jump scares. Not that they're absent, but Observer_ also has a good chunk of beauty to it.
 
 My one tip: Rudy is your best friend.
 
